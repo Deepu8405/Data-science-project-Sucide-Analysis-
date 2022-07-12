@@ -1,1 +1,1 @@
-# Data-science-project-Sucide-Analysis-
+# Data-science-project-Suicide-Analysis-
